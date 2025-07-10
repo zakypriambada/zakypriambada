@@ -5,7 +5,7 @@ hallo my name is Muhamad Zaky Priambada Anugrah
 
 ## 🌐 Socials:
 <div align="center">
-  <a href="https://www.instagram.com/zaky_0/profilecard/?igsh=NjlkaXA3ZmJmano=" target="_blank">
+  <a href="[https://www.instagram.com/zaky_0/profilecard/?igsh=NjlkaXA3ZmJmano=](https://www.instagram.com/zakyprmbda/)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/muhamad-zaky-priambada-anugrah/" target="_blank">
