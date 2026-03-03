@@ -39,8 +39,11 @@
 
 ## 🎉 Fun Fact
 ```python
-class SoftwareEngineer:
+class AndroidAndWebDeveloper:
     def __init__(self):
-        self.name = "Nama Kamu"
-        self.role = "Passionate AI | Software Engineer"
+        self.name = "Jecky"
+        self.education = "Informatics @ UPN "Veteran" Jawa Timur"
+        self.semester = 6 
+        self.gpa = 3.92
+        self.focus = ["Web Development", "Mobile Development"]
 ```
