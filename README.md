@@ -1,6 +1,5 @@
 # Hi there, I'm Jecky! 👋
 🌍 Based in Surabaya | 💡 Passionate about Android & Web Developer
-*Machine Learning | Data Scientist | Web Developer*
 <hr style="border: 1px solid #30363d;">
 
 
