@@ -6,7 +6,7 @@
 #### 🌐 Frontend & Design
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma,ps)](https://skillicons.dev)
 ### ⚙️ Backend & Languages
-[![My Skills](https://skillicons.dev/icons?i=php,py,java,cpp,c,nodejs,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,py,java,cpp,c,nodejs,mysql,postgres,laravel)](https://skillicons.dev)
 ### 📱 Mobile & Apps
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,dart)](https://skillicons.dev)
 ### 🚀 Infrastructure & Tools
