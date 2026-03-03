@@ -10,7 +10,7 @@
 ### 📱 Mobile & Apps
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,dart)](https://skillicons.dev)
 ### 🚀 Infrastructure & Tools
-[![My Skills](https://skillicons.dev/icons?i=git,docker,netbeans)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,postman)](https://skillicons.dev)
 ### 🔧 Networking & Others
 * **Networking:** GNS3, Winbox
 * **Local Server:** Laragon
